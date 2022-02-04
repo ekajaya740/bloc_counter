@@ -1,3 +1,3 @@
 # bloc_increment_app
 
-Implementation of bloc pattern in counter app
+A simple counter app with BLoC implementation
